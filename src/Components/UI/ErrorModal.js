@@ -22,5 +22,4 @@ const ErrorModal = (props) => {
     </Fragment>
   );
 };
-
 export default ErrorModal;
